@@ -1,4 +1,4 @@
-FROM rocker/rstudio:latest
+FROM bioconductor/bioconductor_docker:latest
 
 # Additional R packages 
 ADD install_pkgs.R /tmp/
