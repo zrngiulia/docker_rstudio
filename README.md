@@ -1,11 +1,2 @@
-# docker_rstudio
-prova ugytyt
-
-## sub 
-uyhuygu
-
-
-### sub sub 
-iuhiu    
-hnihn
-iihuhyh
+#README
+Here the code to create my personal docker for rstudio is stored.
